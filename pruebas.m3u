@@ -1,11 +1,13 @@
 # EXTM3U
 #EXTINF:-1,P1
-http://st.tv-vip.com/s/transcoder/Quantum_of_Solace.mp4/360-mp4/Quantum_of_Solace.mp4.mp4?t=1471289596&m=4cprqILBr5SVqGjcZWZy8w&b=oLH-EaVmpYLpin75cKhouA
+http://st.tv-vip.com/s/transcoder/Casino_Royale.mp4/360-mp4/Casino_Royale.mp4.mp4?t=1471289794&m=gN6yF4w5eDly8T7I5qerDA&b=pQetibOIxl7BSnNOa-Y0zg
 #EXTINF:-1,P2
-http://hs.tv-vip.com/s/transcoder/Quantum_of_Solace.mp4/360-mp4/Quantum_of_Solace.mp4.mp4?t=1471289596&m=4cprqILBr5SVqGjcZWZy8w&b=oLH-EaVmpYLpin75cKhouA
+http://hs.tv-vip.com/s/transcoder/Casino_Royale.mp4/360-mp4/Casino_Royale.mp4.mp4?t=1471289794&m=gN6yF4w5eDly8T7I5qerDA&b=pQetibOIxl7BSnNOa-Y0zg
 #EXTINF:-1,P3
-http://st.tv-vip.com/s/transcoder/Quantum_of_Solace.mp4/240-mp4/Quantum_of_Solace.mp4.mp4?t=1471289596&m=fVXcdQxlypEOSrl8U9CUAw&b=yLd0ZVV3ECEknoOGKIycWQ
+http://st.tv-vip.com/s/transcoder/Casino_Royale.mp4/240-mp4/Casino_Royale.mp4.mp4?t=1471289795&m=CRjKWX6WFV_1R8cXE382Eg&b=QZqP9HmerJaVGpwfSjI8Ig
 #EXTINF:-1,P4
-http://hs.tv-vip.com/s/transcoder/Quantum_of_Solace.mp4/240-mp4/Quantum_of_Solace.mp4.mp4?t=1471289596&m=fVXcdQxlypEOSrl8U9CUAw&b=yLd0ZVV3ECEknoOGKIycWQ
+http://hs.tv-vip.com/s/transcoder/Casino_Royale.mp4/240-mp4/Casino_Royale.mp4.mp4?t=1471289795&m=CRjKWX6WFV_1R8cXE382Eg&b=QZqP9HmerJaVGpwfSjI8Ig
 #EXTINF:-1,P5
-http://hcb.tv-vip.com/s/transcoder/Quantum_of_Solace.mp4/default/Quantum_of_Solace.mp4?t=1471289596&m=2d-p1PLWXedd1-PfgacqYA&b=dEjF6EeTivXRkB0VpHvwSA
+http://s2.tv-vip.com/s/transcoder/Casino_Royale.mp4/240-mp4/Casino_Royale.mp4.mp4?t=1471289795&m=CRjKWX6WFV_1R8cXE382Eg&b=QZqP9HmerJaVGpwfSjI8Ig
+#EXTINF:-1,P6
+http://hcb.tv-vip.com/s/transcoder/Casino_Royale.mp4/default/Casino_Royale.mp4?t=1471289795&m=lhjR80fp0Njd_k8mVoyCOw&b=rb_QVA-vN3DgCLpMmclvJQ
