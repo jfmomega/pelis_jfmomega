@@ -1,3 +1,3 @@
 # EXTM3U
-#EXTINF: 0 tvg-logo="http://tv-vip.com/json/playlist/peliculas-mas-vistas/thumbnail_300x300.jpg",type="playlist",PELICULAS MAS VISTAS
+#EXTINF: 0 type="playlist",PELICULAS MAS VISTAS
 https://raw.githubusercontent.com/jfmomega/pelis_jfmomega/master/peliculas_mas_vistas.m3u
