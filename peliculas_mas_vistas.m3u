@@ -1,5 +1,5 @@
 # EXTM3U
-#EXTINF:-1,MAD MAX:FURIA EN LA CARRETERA
+#EXTINF:-1 tvg-logo="http://tv-vip.com/json/repo/Mad_Max_Furia_en_la_carretera_1.mp4/poster.jpg",MAD MAX:FURIA EN LA CARRETERA
 http://st.tv-vip.com/s/transcoder/Mad_Max_Furia_en_la_carretera_1.mp4/360-mp4/Mad_Max_Furia_en_la_carretera_1.mp4.mp4?t=1471271572&m=3h_gOZaLmLqet9eLqoRXaQ&b=Cu3niLYKxMcPGf_Y86mhuw
 #EXTINF:-1,MAD MAX:SALVAJES DE AUTOPISTA
 http://st.tv-vip.com/s/transcoder/mad-max-1.mp4/360-mp4/mad-max-1.mp4.mp4?t=1471271713&m=l8Vj-KWc83hle8WUz0D4Fg&b=woOW4u1lbkBq6Nda5D61zA
@@ -11,5 +11,35 @@ http://st.tv-vip.com/s/transcoder/mad-max-3.mp4/360-mp4/mad-max-3.mp4.mp4?t=1471
 http://st.tv-vip.com/s/transcoder/Operasiones_espesiales.mp4/360-mp4/Operasiones_espesiales.mp4.mp4?t=1471272226&m=PJ4EgVC1ZPlStMo4HFYamw&b=0u7TdNAMwaeSq7Xq_ZgbqQ
 #EXTINF:-1,ANACLETO: AGENTE SECRETO
 http://st.tv-vip.com/s/transcoder/Anacleto_Agente_secreto_1.mp4/360-mp4/Anacleto_Agente_secreto_1.mp4.mp4?t=1471272290&m=6tn0_EApcHUDbf7vKBjYkg&b=qQTp2m_fuZXw2cGlm61_Eg
-#EXTINF:-1,prueba
-http://example.com/playlists/trillers.m3u
+#EXTINF:-1,THE KARATE KID
+http://st.tv-vip.com/s/transcoder/The_Karate_Kid.mp4/360-mp4/The_Karate_Kid.mp4.mp4?t=1471275183&m=v8Apie-LojPlFGlnIjGXOg&b=zlAv-ENVjybixhDSuDnc4Q
+#EXTINF:-1,UNA CENICIENTA MODERNA 3: ERASE UNA VEZ UNA CANCION
+http://st.tv-vip.com/s/transcoder/Una-Cenicienta-Moderna-3--dvdrip--spanish--www.lokotorrents.com-.mp4/360-mp4/Una-Cenicienta-Moderna-3--dvdrip--spanish--www.lokotorrents.com-.mp4.mp4?t=1471275499&m=7sLE7jhYKOThyGkWnY0MVA&b=N1ztw8IizSGGP2sb79Z64g
+#EXTINF:-1,LA PRINCESA PROMETIDA
+http://st.tv-vip.com/s/transcoder/La_princesa_prometida.mp4/360-mp4/La_princesa_prometida.mp4.mp4?t=1471275548&m=FyfTkvmiOe47N-4ZDkt7pA&b=ep-BMwwxIcyiYp94K8bxdw
+#EXTINF:-1,ICE AGE: LA EDAD DE HIELO
+http://st.tv-vip.com/s/transcoder/ICEAGE.1.HDR.RY.mp4/360-mp4/ICEAGE.1.HDR.RY.mp4.mp4?t=1471276181&m=ZwA6teaoVYxp3_yL4Z8qyQ&b=v9WF_Cyuo5Xn0JghgKoB4g
+#EXTINF:-1,TROYA
+http://st.tv-vip.com/s/transcoder/Troya.mp4/360-mp4/Troya.mp4.mp4?t=1471276227&m=3ngme1wG2UP8jZOUCfnxgQ&b=bqSzOmnul3DCVPzL9rCtKg
+#EXTINF:-1,BABY EL SECRETO DE UNA LEYENDA PERDIDA
+http://st.tv-vip.com/s/transcoder/Baby_el_secreto_de_una_leyenda_perdida.mp4/360-mp4/Baby_el_secreto_de_una_leyenda_perdida.mp4.mp4?t=1471276266&m=w133FeANAzjtBhsVQN_DcA&b=fZTe-LjhG5x6APHR4zrCRw
+#EXTINF:-1,MATRIMONIO DE CONVENIENCIA
+http://st.tv-vip.com/s/transcoder/Matrimonio_de_conveniencia.mp4/360-mp4/Matrimonio_de_conveniencia.mp4.mp4?t=1471276336&m=_b_-DJcRHXTNp4_UiNfcRg&b=E9XKELPiLug9nraL2ALeCA
+#EXTINF:-1,SPIDER-MAN 3
+http://st.tv-vip.com/s/transcoder/Spider_Man_3_Spiderman_3.mp4/360-mp4/Spider_Man_3_Spiderman_3.mp4.mp4?t=1471276353&m=HPKgFhmOTNRr7Lz51gaSFw&b=5QMJ1Snw7x6iEuGFHS4OVQ
+#EXTINF:-1,ABSOLUTAMENTE TODO
+http://st.tv-vip.com/s/transcoder/Absolutamente_todo_1.mp4/360-mp4/Absolutamente_todo_1.mp4.mp4?t=1471276376&m=3DwoiHuA8z3YVq_fcNN1FA&b=FIDcHmvpfuFzdGyOgT0Yxg
+#EXTINF:-1,PESADILLA EN ELM STREET EL ORIGEN
+http://st.tv-vip.com/s/transcoder/Pesadilla_en_Elm_Street_El_origen.mp4/360-mp4/Pesadilla_en_Elm_Street_El_origen.mp4.mp4?t=1471276397&m=khbpM8lLr1A15Wq7ocNqGA&b=gnStRsgUQQ_3aVx4TFflnA
+#EXTINF:-1,ABIERTO HASTA EL AMANECER
+http://st.tv-vip.com/s/transcoder/Abierto_hasta_el_amanecer_1.mp4/360-mp4/Abierto_hasta_el_amanecer_1.mp4.mp4?t=1471276427&m=SR2AUgV5Uqta5ZnVH4VpNA&b=g3WLsoAlX8Gu1agBUszg-A
+#EXTINF:-1,TOM SAWYER
+http://st.tv-vip.com/s/transcoder/Tom_Sawyer.mp4/360-mp4/Tom_Sawyer.mp4.mp4?t=1471276474&m=YP3dHgWRw8kC-WdnwMBCZQ&b=5QJHSeX-XMIzJvde1Fl4DA
+#EXTINF:-1,LOS OLVIDADOS
+http://st.tv-vip.com/s/transcoder/Los_olvidados.mp4/360-mp4/Los_olvidados.mp4.mp4?t=1471276516&m=IaCTSteB-sXOPldxA-sKxw&b=HIfkNPA2OVGzcz9zU290EQ
+#EXTINF:-1,LA BELLA DURMIENTE
+http://st.tv-vip.com/s/transcoder/La_bella_durmiente.mp4/360-mp4/La_bella_durmiente.mp4.mp4?t=1471276534&m=TXvMXSF_j10vCL9rNhT7OQ&b=DY7u5VCh6mqYNb95MQ1YQg
+#EXTINF:-1,CIUDAD FANTASTAMA
+http://st.tv-vip.com/s/transcoder/Ciudad_fantasma.mp4/360-mp4/Ciudad_fantasma.mp4.mp4?t=1471276562&m=PaH-bArZL7AvhtkkkE6iXw&b=Y3X6Ij5FTnXswiISDCRRsA
+#EXTINF:-1,MATRIX
+http://st.tv-vip.com/s/transcoder/Matrix.mp4/360-mp4/Matrix.mp4.mp4?t=1471276666&m=jwn9O9aPI-Zzz9zov-FMpA&b=otEluBr513EbZOQKp1cl0w
