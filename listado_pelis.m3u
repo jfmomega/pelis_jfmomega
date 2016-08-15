@@ -1,4 +1,4 @@
-# EXTM3U size="medium"
-#EXTINF:-1 tvg-logo="http://tv-vip.com/json/playlist/lo-mas-visto/background.jpg" type="video" description="1997",PELIS MAS VISTAS
+# EXTM3U 
+#EXTINF:0 type="playlist",PELIS MAS VISTAS
 https://raw.githubusercontent.com/jfmomega/pelis_jfmomega/master/peliculas_mas_vistas.m3u
 
