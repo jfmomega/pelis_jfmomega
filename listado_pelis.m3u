@@ -1,5 +1,3 @@
 # EXTM3U
 #EXTINF: 0 type = "playlist",PELICULAS MAS VISTAS
 https://raw.githubusercontent.com/jfmomega/pelis_jfmomega/master/peliculas_mas_vistas.m3u
-#EXTINF: 0 type = "playlist",NETFLIX
-https://raw.githubusercontent.com/Carlesto/Listas/master/listatotal.m3u
