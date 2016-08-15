@@ -1,8 +1,7 @@
 # EXTM3U
 #EXTINF: 0 type = "playlist",PELICULAS MAS VISTAS
-#https://raw.githubusercontent.com/jfmomega/pelis_jfmomega/master/peliculas_mas_vistas.m3u
+https://raw.githubusercontent.com/jfmomega/pelis_jfmomega/master/peliculas_mas_vistas.m3u
 #EXTINF: 0 type = "playlist",ULTIMAS PELICULAS
-#https://raw.githubusercontent.com/jfmomega/pelis_jfmomega/master/ultimas_peliculas.m3u
+https://raw.githubusercontent.com/jfmomega/pelis_jfmomega/master/ultimas_peliculas.m3u
 #EXTINF: 0 type = "playlist",ACCION
 https://raw.githubusercontent.com/jfmomega/pelis_jfmomega/master/ACCION.m3u
-
