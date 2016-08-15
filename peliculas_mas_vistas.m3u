@@ -1,5 +1,5 @@
 # EXTM3U
-#EXTINF:-1 tvg-logo="http://tv-vip.com/json/repo/Mad_Max_Furia_en_la_carretera_1.mp4/poster.jpg",MAD MAX:FURIA EN LA CARRETERA
+#EXTINF:-1,MAD MAX:FURIA EN LA CARRETERA
 http://st.tv-vip.com/s/transcoder/Mad_Max_Furia_en_la_carretera_1.mp4/360-mp4/Mad_Max_Furia_en_la_carretera_1.mp4.mp4?t=1471271572&m=3h_gOZaLmLqet9eLqoRXaQ&b=Cu3niLYKxMcPGf_Y86mhuw
 #EXTINF:-1,MAD MAX:SALVAJES DE AUTOPISTA
 http://st.tv-vip.com/s/transcoder/mad-max-1.mp4/360-mp4/mad-max-1.mp4.mp4?t=1471271713&m=l8Vj-KWc83hle8WUz0D4Fg&b=woOW4u1lbkBq6Nda5D61zA
@@ -43,3 +43,57 @@ http://st.tv-vip.com/s/transcoder/La_bella_durmiente.mp4/360-mp4/La_bella_durmie
 http://st.tv-vip.com/s/transcoder/Ciudad_fantasma.mp4/360-mp4/Ciudad_fantasma.mp4.mp4?t=1471276562&m=PaH-bArZL7AvhtkkkE6iXw&b=Y3X6Ij5FTnXswiISDCRRsA
 #EXTINF:-1,MATRIX
 http://st.tv-vip.com/s/transcoder/Matrix.mp4/360-mp4/Matrix.mp4.mp4?t=1471276666&m=jwn9O9aPI-Zzz9zov-FMpA&b=otEluBr513EbZOQKp1cl0w
+#EXTINF:-1,LA MOMIA
+http://st.tv-vip.com/s/transcoder/La_momia.mp4/360-mp4/La_momia.mp4.mp4?t=1471276794&m=661jT7rwrCgBXqgvNlTR8Q&b=ToKim6WtYxsXFa3H9JdQXQ
+#EXTINF:-1,EL HOMBRE DE ACERO
+http://st.tv-vip.com/s/transcoder/El_hombre_de_acero_1.mp4/360-mp4/El_hombre_de_acero_1.mp4.mp4?t=1471276828&m=Fe69yMFAFmR0r7XAQpw2ag&b=vtyrvTDjREVlsNZAMGOeFw
+#EXTINF:-1,A ROMA CON AMOR
+http://st.tv-vip.com/s/transcoder/A_Roma_con_amor.mp4/360-mp4/A_Roma_con_amor.mp4.mp4?t=1471278955&m=JXSd-Lmx9-YDc5-9QVjnTg&b=45eg30trL-UKuf_5pdJ-qQ
+#EXTINF:-1,TRANSFORMERS
+http://st.tv-vip.com/s/transcoder/Transformers.mp4/360-mp4/Transformers.mp4.mp4?t=1471278984&m=PZ_uQFHBhTKQoPgtflJ7fg&b=41jAAZCMyd-A_IKn2rqF4g
+#EXTINF:-1,TIERRA A ECO
+http://st.tv-vip.com/s/transcoder/Tierra.A.Eco.DVD.XviD.-www.DivxTotaL.com-.mp4/360-mp4/Tierra.A.Eco.DVD.XviD.-www.DivxTotaL.com-.mp4.mp4?t=1471279027&m=ILyeKgKoE_2jcl1NIPE5AA&b=fuaQ8NbouFmJ1hIRvld_cQ
+#EXTINF:-1,CABALLOS SALVAJES
+http://st.tv-vip.com/s/transcoder/Caballos_salvajes.mp4/360-mp4/Caballos_salvajes.mp4.mp4?t=1471279047&m=_ZliapgCmMxLQykbPlDCwQ&b=-p5q1xZRBf7LuHq3473qdA
+#EXTINF:-1,EL BENEFACTOR
+http://hs.tv-vip.com/s/transcoder/El_benefactor.mp4/360-mp4/El_benefactor.mp4.mp4?t=1471279062&m=9wLDW0aypeF1qgw946gIRg&b=i7Q7ath4eD0EfiaP_2E9bw
+#EXTINF:-1,ELEKTRA
+http://st.tv-vip.com/s/transcoder/Elektra.mp4/360-mp4/Elektra.mp4.mp4?t=1471279075&m=8wwQrWM0Gsd0qSkOEvxIbw&b=-WelTtCvarM7hhkJVOIGeg
+#EXTINF:-1,SALVAR AL SOLDADO RYAN
+http://st.tv-vip.com/s/transcoder/Salvar-al-Soldado-Ryan.mp4/360-mp4/Salvar-al-Soldado-Ryan.mp4.mp4?t=1471279161&m=lLxOjKEgZnz2zLmZDPniiQ&b=SupT7yy3XbXtDkbtFvphHQ
+#EXTINF:-1,MADAGASCAR - 3D
+http://st.tv-vip.com/s/transcoder/Madagascar-3D-SBS-inaki-.mp4/360-mp4/Madagascar-3D-SBS-inaki-.mp4.mp4?t=1471279177&m=Bji_GTuEFXcqIqvVyQWd_w&b=G5TTz55vDfkoYl6BtDVJ9g
+#EXTINF:-1,MEJOR OTRO DIA
+http://st.tv-vip.com/s/transcoder/Mejor-otro-dia--2014-.HDrip.mp4/360-mp4/Mejor-otro-dia--2014-.HDrip.mp4.mp4?t=1471279194&m=JIssEWP82BlMnpBQHTOsMw&b=hBGeX7jLCjVGGY4on3j0mw
+#EXTINF:-1,VICTOR FRANKESTEIN
+http://st.tv-vip.com/s/transcoder/Victor_Frankenstein_1.mp4/360-mp4/Victor_Frankenstein_1.mp4.mp4?t=1471279208&m=wh05OlZ9VA6sa6Bl3mvrGg&b=ibM9584dDPnDeRfUseMTAQ
+#EXTINF:-1,COMO ENTRENAR A TU DRAGON
+http://st.tv-vip.com/s/transcoder/Como-Entrenar-a-Tu-Dragon-1.mp4/360-mp4/Como-Entrenar-a-Tu-Dragon-1.mp4.mp4?t=1471279221&m=47g5dLJ-TtsmNF03SXJ65A&b=8AVWPZp9RZ6AODBGDUKnCA
+#EXTINF:-1,EYES WIDE SHUT
+http://st.tv-vip.com/s/transcoder/Eyes_Wide_Shut.mp4/360-mp4/Eyes_Wide_Shut.mp4.mp4?t=1471279232&m=w82McmKAyDYBGLlCgzXsVw&b=0sv4u0VNaintX_tsxKyevQ
+#EXTINF:-1,SHERK 3
+http://st.tv-vip.com/s/transcoder/Shrek-3-HDrip--AC3-Spanish--www.lokotorrents.com-.mp4/360-mp4/Shrek-3-HDrip--AC3-Spanish--www.lokotorrents.com-.mp4.mp4?t=1471279248&m=AVICfXUDWZqpJMe0pMFZ3A&b=nJQHhZ1tILwLBPGHTXX72A
+#EXTINF:-1,BEE MOVIE
+http://st.tv-vip.com/s/transcoder/Bee-Movie.mp4/360-mp4/Bee-Movie.mp4.mp4?t=1471279262&m=UTK0QuEjh04NW2tLHv8mRg&b=bVdw0kQi5DHGKiDQ_y1Ucg
+#EXTINF:-1,AMOR SIN CONTROL
+http://st.tv-vip.com/s/transcoder/Am0rControlDVDR.yamil.mp4/360-mp4/Am0rControlDVDR.yamil.mp4.mp4?t=1471279278&m=lRxH0qrZdwWjpRDquoDkUw&b=APzZG5xLQnzsdVB2nvoLug
+#EXTINF:-1,DUMBO
+http://st.tv-vip.com/s/transcoder/Dumbo.mp4/360-mp4/Dumbo.mp4.mp4?t=1471279291&m=vFTK_x0dwVvhQwihgPmwhw&b=2kUtzWfB3fxhCoaWFB3LHg
+#EXTINF:-1,GRANDMA
+http://st.tv-vip.com/s/transcoder/Grandma.mp4/360-mp4/Grandma.mp4.mp4?t=1471279303&m=0avYtNniS5OIe43O3BAnkw&b=WzuubA-RzPxJRnweKXdz_A
+#EXTINF:-1,BAMBI
+http://st.tv-vip.com/s/transcoder/Bambi.mp4/360-mp4/Bambi.mp4.mp4?t=1471279478&m=e5mTUsA0WyBX3KRsyMey2Q&b=1PPDL5FDcplHoBh9jhnOmw
+#EXTINF:-1,IRON MAN 3
+http://st.tv-vip.com/s/transcoder/Iron_Man_3.mp4/360-mp4/Iron_Man_3.mp4.mp4?t=1471279465&m=ZvHsc4pkYrUErMCGQ60T8A&b=VyGHJ8VlD0M1-R3TjbOvsQ
+#EXTINF:-1,AMOR CIEGO
+http://st.tv-vip.com/s/transcoder/Amor_ciego.mp4/360-mp4/Amor_ciego.mp4.mp4?t=1471279446&m=ATq2DLtpxUDpbgxZsiqIiQ&b=q-RsoCPyYW-u08H0pnMFDg
+#EXTINF:-1,EL ORIGEN DE LA SIRENITA
+http://st.tv-vip.com/s/transcoder/El_origen_de_La_Sirenita.mp4/360-mp4/El_origen_de_La_Sirenita.mp4.mp4?t=1471279434&m=6PpT81MWaD1VKiXMBrUTpg&b=HH9CvC-RbiccQPrNR3DJ_g
+#EXTINF:-1,EL SILENCIO DE LOS CORDEROS
+http://st.tv-vip.com/s/transcoder/El_silencio_de_los_corderos.mp4/360-mp4/El_silencio_de_los_corderos.mp4.mp4?t=1471279419&m=nzsTLdWhx3P8ZjnVF5EBjg&b=nml3dxi6fSBYX_TQP6Kq4Q
+#EXTINF:-1,TERMINATOR 2: EL JUICIO FINAL
+http://st.tv-vip.com/s/transcoder/Terminator_2_el_juicio_final.mp4/360-mp4/Terminator_2_el_juicio_final.mp4.mp4?t=1471279406&m=Oqi4pEPrdOCju0-HOWX3qQ&b=8lj4T0w_3OM8jg-X6fw9yQ
+#EXTINF:-1,TERMINATOR
+http://st.tv-vip.com/s/transcoder/Terminator-1.mp4/360-mp4/Terminator-1.mp4.mp4?t=1471279393&m=n-gxhpcI1qJmuhDBgNMDog&b=7weExyX99MbEp2MF1MYGhw
+#EXTINF:-1,AMOR A QUEMARROPA
+http://st.tv-vip.com/s/transcoder/Amor_a_quemarropa.mp4/360-mp4/Amor_a_quemarropa.mp4.mp4?t=1471279376&m=K8-9BRuZuSNo6TmQUdpMNw&b=siDuvdPutMis0_fcZu49HA
