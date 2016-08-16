@@ -1,60 +1,62 @@
 # EXTM3U
-#EXTINF:-1,PREDATOR
-http://hn.tv-vip.com/s/transcoder/Predators.mp4/default/Predators.mp4?t=1471380360&m=MqPCV489xJzZ1nMfKPwMwg&b=_gpBXqZ_6f2WZyoFuNxYSQ
-#EXTINF:-1,DEPREDADOR
-http://hn.tv-vip.com/s/transcoder/Depredador.mp4/default/Depredador.mp4?t=1471380480&m=6OmI3Sak4zfjNhG0KEG02Q&b=x-pYnKxyYuAxeOCLB_kAKQ
-#EXTINF:-1,DEPREDADOR 2
-http://hn.tv-vip.com/s/transcoder/Depredador_2.mp4/default/Depredador_2.mp4?t=1471380479&m=lAONvmUe16d3SR0fi3-ccA&b=7zhU8al-b-5aTQXVeG5dgg
 
-#EXTINF:-1,ROCKY
-http://hn.tv-vip.com/s/transcoder/Rocky.mp4/default/Rocky.mp4?t=1471380590&m=-aNg_-iHpxupR2JEB1cQMA&b=AMhcH5030gTyTfGEGM6bLA
-#EXTINF:-1,ROCKY II
-http://hn.tv-vip.com/s/transcoder/Rocky_II.mp4/default/Rocky_II.mp4?t=1471380606&m=m8Wyk0hr6bJuXAiUVoECdw&b=RKwEvOykX6C-HiRHMhW5Yw
-#EXTINF:-1,ROCKY III
-http://hn.tv-vip.com/s/transcoder/Rocky_III.mp4/default/Rocky_III.mp4?t=1471380622&m=Vlv1-8B9OsidpTPTEcWYLw&b=pVzml6bXRs38iA0HllUXoQ
-#EXTINF:-1,ROCKY IV
-http://hn.tv-vip.com/s/transcoder/Rocky_IV.mp4/default/Rocky_IV.mp4?t=1471380638&m=kd5ACRpyFyAPcxu71RhQfg&b=MEV8NaIuQSWtNADw-K3AQA
-#EXTINF:-1,ROCKY V
-http://hn.tv-vip.com/s/transcoder/Rocky_V.mp4/default/Rocky_V.mp4?t=1471380657&m=YAUxJn0VOxMx-c0_swH_EA&b=xYL0uW-f48VmkU8Ay6Y5WQ
-#EXTINF:-1,ROCKY VI
-http://hn.tv-vip.com/s/transcoder/Rocky_Balboa_Rocky_VI.mp4/default/Rocky_Balboa_Rocky_VI.mp4?t=1471380672&m=mylNXwE-lEu-esWxnIz6YA&b=uyuPsMnAcfoWkWI7NF9ueg
-#EXTINF:-1,CREED. LA LEYENDA DE ROCKY
-http://hn.tv-vip.com/s/transcoder/Creed.La_leyenda_de_Rocky_2.mp4/default/Creed.La_leyenda_de_Rocky_2.mp4?t=1471380689&m=BVL8NAsi6PsMyZ8C-vapTg&b=7NCrdAYCF2JHMtN3nv60yw
+#EXTINF:-1,TAXI
+http://hn.tv-vip.com/s/transcoder/Taxi_Express.mp4/default/Taxi_Express.mp4?t=1471381302&m=DxHJlVhGr5p2nt6Txoae5w&b=GbgdDYlc3Vz29qmk9FdLgw
+#EXTINF:-1,TAXI II
+http://hn.tv-vip.com/s/transcoder/Taxi_2.mp4/default/Taxi_2.mp4?t=1471381316&m=A3EvdZttdAMp3ZHUAT1l8g&b=USTEygPNZESWn_mTEDG17Q
+#EXTINF:-1,TAXI III
+http://hn.tv-vip.com/s/transcoder/Taxi_3.mp4/default/Taxi_3.mp4?t=1471381330&m=T1b2DlYvMdhR_QgkMhzzlg&b=WRdDQQ-Hh2O8LVMK7JwfKg
+#EXTINF:-1,TAXI IV
+http://hn.tv-vip.com/s/transcoder/Taxi_4_1.mp4/default/Taxi_4_1.mp4?t=1471381350&m=15EScWSt7idDuSy-6kD5jA&b=8ERwC4z0cmH6d_cK0nsEiA
 
+#EXTINF:-1,TOMB RAIDER
+http://hn.tv-vip.com/s/transcoder/Lara_Croft_Tomb_Raider.mp4/default/Lara_Croft_Tomb_Raider.mp4?t=1471381378&m=GPumzH8CwH1F9cxB862-Og&b=CMeHh6YtDAkvqhzRQ1mkWQ
+#EXTINF:-1,TOMB RAIDER II
+http://hn.tv-vip.com/s/transcoder/Lara_Croft_Tomb_Raider_2_La_cuna_de_la_vida.mp4/default/Lara_Croft_Tomb_Raider_2_La_cuna_de_la_vida.mp4?t=1471381392&m=__o8SMjH7SHSO9T_W_AI2g&b=c7GCvckopLBeV0uB9_NwdA
 
-#EXTINF:-1,MISION IMPOSIBLE
-http://hn.tv-vip.com/s/transcoder/Misión_imposible.mp4/default/Misión_imposible.mp4?t=1471380738&m=R7ZyYINNMKlxLmuYuIvsnw&b=-SClqFH3Ww9i5JLhUrUVmA
-#EXTINF:-1,MISION IMPOSIBLE II
-http://hn.tv-vip.com/s/transcoder/Misión_imposible_2_M_I_2.mp4/default/Misión_imposible_2_M_I_2.mp4?t=1471380755&m=Ry0mBfYLVcqTjem9Oym87A&b=vMN6OCLtgZVTf-PfWUWWKw
-#EXTINF:-1,MISION IMPOSIBLE III
-http://hn.tv-vip.com/s/transcoder/Misión_imposible_III_M_I_3.mp4/default/Misión_imposible_III_M_I_3.mp4?t=1471380772&m=LO9Bug1bnp3og4F2YDWCWQ&b=WR_w4FmeA0o0omkjnPf7Iw
-#EXTINF:-1,MISION IMPOSIBLE IV
-http://hn.tv-vip.com/s/transcoder/Misión_imposible_Protocolo_Fantasma_Misión_imposible_IV.mp4/default/Misión_imposible_Protocolo_Fantasma_Misión_imposible_IV.mp4?t=1471380791&m=j3IQaISDgk2zM_UsOQd0tw&b=DPFXwfbIl8D5l6x0fqBv5g
-#EXTINF:-1,MISION IMPOSIBLE V
-http://hn.tv-vip.com/s/transcoder/Misión_imposible_Nación_secreta_1.mp4/default/Misión_imposible_Nación_secreta_1.mp4?t=1471380810&m=1JwJk91Rs--l_p4o36sUPw&b=_FMHDfmqbm9gRCtvl4Ypeg
+#EXTINF:-1,LA MOMIA
+http://hn.tv-vip.com/s/transcoder/La_momia.mp4/default/La_momia.mp4?t=1471381430&m=xGdFHqZkXkv4TkrFy8vQSg&b=_L5OdwBedqbt84vQfGpKGQ
+#EXTINF:-1,LA MOMIA II
+http://hn.tv-vip.com/s/transcoder/El_regreso_de_la_momia.mp4/default/El_regreso_de_la_momia.mp4?t=1471381444&m=RJKNqG3XmteRri0cgJLMNQ&b=YPWwNNgTGiu7W_6jtkx-9Q
+#EXTINF:-1,LA MOMIA III
+http://hn.tv-vip.com/s/transcoder/La_momia_La_tumba_del_emperador_Dragón_La_momia_3_1.mp4/default/La_momia_La_tumba_del_emperador_Dragón_La_momia_3_1.mp4?t=1471381459&m=UHjOkLsTN9UB0oiUsCRXlQ&b=fNMCk7zhZDf6DrA_afYehw
 
+#EXTINF:-1,MAD MAX 
+http://hn.tv-vip.com/s/transcoder/mad-max-1.mp4/default/mad-max-1.mp4?t=1471381518&m=GJed1h85srpNUIzV5i9V1w&b=2Iz74jKyLE6_EaUT1MCYMA
+#EXTINF:-1,MAD MAX II
+http://hn.tv-vip.com/s/transcoder/mad-max-2.mp4/default/mad-max-2.mp4?t=1471381534&m=A9MToQBum3_ghalceZmCjw&b=hKphhYbLbZj41xn-9UFL9g
+#EXTINF:-1,MAD MAX III
+http://hn.tv-vip.com/s/transcoder/mad-max-3.mp4/default/mad-max-3.mp4?t=1471381547&m=1SzDsWZoMiJqd5jLktmfzA&b=iecAj9PSmz56mHy-3kVP9g
+#EXTINF:-1,MAD MAX: FURIA EN LA CARRETERA
+http://s2.tv-vip.com/s/transcoder/Mad_Max_Furia_en_la_carretera_1.mp4/default/Mad_Max_Furia_en_la_carretera_1.mp4?t=1471381549&m=q8WR-GvgeMshCVhcvF81VA&b=oM05EaQx4OZMWkFWf_141Q
 
-#EXTINF:-1,GI JOE
-http://hn.tv-vip.com/s/transcoder/G.I._Joe.mp4/default/G.I._Joe.mp4?t=1471380855&m=XdLsbU4JCNv73Bupm08fZA&b=OpDy450lKF7hUwIhoI0UXA
-#EXTINF:-1,GI JOE II
-http://hn.tv-vip.com/s/transcoder/G.I._Joe_La_venganza.mp4/default/G.I._Joe_La_venganza.mp4?t=1471380872&m=mW-k3qek7sFL_EfxR9Z9oA&b=xWWt81tc5n-fBTbb4CHfsA
+#EXTINF:-1,HORA PUNTA 
+http://hn.tv-vip.com/s/transcoder/Hora_punta.mp4/default/Hora_punta.mp4?t=1471381600&m=pAfhHV-_W4rsgzeSL_6BSw&b=mu6bmN7Sx2kPGPXg3rervA
+#EXTINF:-1,HORA PUNTA II
+http://hn.tv-vip.com/s/transcoder/Hora_punta_2.mp4/default/Hora_punta_2.mp4?t=1471381613&m=RXPJCQ0l1EILriuHR25RXQ&b=ePt1meqgsn1NYZR2mTJq7Q
+#EXTINF:-1,HORA PUNTA III
+http://hn.tv-vip.com/s/transcoder/Hora_punta_3.mp4/default/Hora_punta_3.mp4?t=1471381614&m=B87O2MqW2OUV5bvc5sH-Bg&b=pWEUPI_qCH1zj0RWDJYj0Q
 
-
-#EXTINF:-1,LOS MERCENARIOS
-http://hn.tv-vip.com/s/transcoder/Los_mercenarios.mp4/default/Los_mercenarios.mp4?t=1471380908&m=w6tPP7kuEK5ewbcxSAfwQQ&b=jxe_yC8C2F4xoqxL4Gi87g
-#EXTINF:-1,LOS MERCENARIOS II
-http://hn.tv-vip.com/s/transcoder/Los_mercenarios_2.mp4/default/Los_mercenarios_2.mp4?t=1471380921&m=v_2hynQjYFQHTbSntgHe1g&b=nZ08iAFkJ5czZEjF1EAdKA
-#EXTINF:-1,LOS MERCENARIOS III
-http://hn.tv-vip.com/s/transcoder/Los_mercenarios_3.mp4/default/Los_mercenarios_3.mp4?t=1471380935&m=5VTn1A0yWERCNcdgovyAaA&b=EM4mP3-96ws0cc6lne4Qqg
+#EXTINF:-1,ROBOCOP
+http://hn.tv-vip.com/s/transcoder/Robocop.mp4/default/Robocop.mp4?t=1471381663&m=IAnG-OJt50n67c-Jwb-q_g&b=M56CwYifYBQdiVY4XbM5ow
+#EXTINF:-1,ROBOCOP II
+http://hn.tv-vip.com/s/transcoder/RoboCop_2.mp4/default/RoboCop_2.mp4?t=1471381668&m=FRU5ru8SnA78hVkzxEgn9A&b=c8vVeHiIo_dbH84VhKfAZg
+#EXTINF:-1,ROBOCOP III
+http://hn.tv-vip.com/s/transcoder/Robocop_3.mp4/default/Robocop_3.mp4?t=1471381668&m=UsvjgbGcSxkBbZM8gtlD7w&b=qnIo2y_QoKjHVHMbVY6x0Q
 
 
-#EXTINF:-1,LA JUNGLA
-http://hn.tv-vip.com/s/transcoder/Jungla_de_cristal.mp4/default/Jungla_de_cristal.mp4?t=1471380979&m=fpVSwVFmVMt_RrVp9RgABw&b=XICrVg4sM3bF57pV6GxcYA
-#EXTINF:-1,LA JUNGLA II
-http://hn.tv-vip.com/s/transcoder/La_jungla_2_alerta_roja_La_jungla_de_cristal_2.mp4/default/La_jungla_2_alerta_roja_La_jungla_de_cristal_2.mp4?t=1471380999&m=LPcRpsBeiZN3h2w3HajcJQ&b=DTbVMeB9TXPsO6cvwmG2kg
-#EXTINF:-1,LA JUNGLA III
-http://hn.tv-vip.com/s/transcoder/Jungla_de_cristal_III_la_venganza.mp4/default/Jungla_de_cristal_III_la_venganza.mp4?t=1471381015&m=ZYqejsra3QIrnwNwQ8eDIA&b=LaE7xnmqZD5WXHIoLiuOhg
-#EXTINF:-1,LA JUNGLA IV
-http://hn.tv-vip.com/s/transcoder/La_jungla_4.0_La_jungla_de_cristal_4_1.mp4/default/La_jungla_4.0_La_jungla_de_cristal_4_1.mp4?t=1471381037&m=26obhyBQtZ7nEyyzcbidwA&b=AEutbAbiEooY4ytH7eVY4Q
-#EXTINF:-1,LA JUNGLA V
-http://hn.tv-vip.com/s/transcoder/La_jungla_Un_buen_día_para_morir_La_jungla_de_cristal_5.mp4/default/La_jungla_Un_buen_día_para_morir_La_jungla_de_cristal_5.mp4?t=1471381039&m=SFM2_yPj-r6B5wiKe--4Mg&b=1HjkY6wiEkKvZCYRTe18jg
+#EXTINF:-1,BLADE
+http://hn.tv-vip.com/s/transcoder/blade-1.mp4/default/blade-1.mp4?t=1471381815&m=Zc0AZFQc0Fai_yHqch9SUQ&b=x-lMv5jn6ALDlBiNv3hQ2A
+#EXTINF:-1,BLADE II
+http://hn.tv-vip.com/s/transcoder/blade-2.mp4/default/blade-2.mp4?t=1471381818&m=J7u-zt2kkyL0sIw5dcMJNw&b=3dMCSkxcjvDcHNsJ5cC3qg
+#EXTINF:-1,BLADE III
+http://hn.tv-vip.com/s/transcoder/blade-3.mp4/default/blade-3.mp4?t=1471381818&m=Ov1HZBmXPiN3baAGWeVMuw&b=mEUOyv0tNAlqVXgrwL6r0w
+
+#EXTINF:-1,ARMA LETAL
+http://hn.tv-vip.com/s/transcoder/Arma_letal.mp4/default/Arma_letal.mp4?t=1471381889&m=6fzAvn2v3xVrcL773wMBtA&b=aqH-DoSIfM2X9fDobv9vBg
+#EXTINF:-1,ARMA LETAL II
+http://hn.tv-vip.com/s/transcoder/Arma_letal_2_1.mp4/default/Arma_letal_2_1.mp4?t=1471381890&m=D-Xqr_V2gH62G2UiLRAONA&b=rMudJ89-dTJpiuV_a5Is2w
+#EXTINF:-1,ARMA LETAL III
+http://hn.tv-vip.com/s/transcoder/Arma_letal_3_1.mp4/default/Arma_letal_3_1.mp4?t=1471381893&m=3V1-02Mx9I4Mm5AGbJbIVQ&b=EAqGtemWPOwwKNmTQlpbSQ
+#EXTINF:-1,ARMA LETAL IV
+http://hn.tv-vip.com/s/transcoder/Arma_letal_4_1.mp4/default/Arma_letal_4_1.mp4?t=1471381893&m=HsHgLHWtyztFS1NIdPU2TA&b=vQwR1wJHbbtmEoc4IpKhiQ
