@@ -1,23 +1,3 @@
 # EXTM3U
-#EXTINF:-1,RIDDICK
-http://hc.tv-vip.com/s/transcoder/Riddick_1.mp4/default/Riddick_1.mp4?t=1471293983&m=1e6cjl4FI6w68WIuPUw3UA&b=kANa3nU_SAsohCwWDWK-mw
 #EXTINF:-1,LAS CRONICAS DE RIDDICK
-
-#EXTINF:-1,PITCH BLACK
-http://hcb.tv-vip.com/s/transcoder/Riddick1BDR1080.www.newpct.com.mp4/default/Riddick1BDR1080.www.newpct.com.mp4?t=1471294611&m=NS9p9PplRjNMENP2un-7og&b=BPdH_vxTWaQDv-4xfmwPgw
-
-#EXTINF:-1,SHERLOCK HOME
-http://hcb.tv-vip.com/s/transcoder/Sherlock_Holmes.mp4/default/Sherlock_Holmes.mp4?t=1471294163&m=A3pXkelfMPl3X-GSp1NDZQ&b=Xr-yjbh-IP5oRAwDknnZ4A
-#EXTINF:-1,MR.HOLMES
-http://hcb.tv-vip.com/s/transcoder/Mr._Holmes_1.mp4/default/Mr._Holmes_1.mp4?t=1471294167&m=pEbooW_ZG2S8Kb39yOrW3A&b=grY9bQxtyS3rSiszIHiAOA
-#EXTINF:-1,SHERLOCK HOME 2: JUEGOS DE SOMBRAS 
-http://hcb.tv-vip.com/s/transcoder/Sherlock-Holmes-2.mp4/default/Sherlock-Holmes-2.mp4?t=1471294166&m=roK20JeJIDElEwmhut9iCQ&b=igl2jeumozjiXT4xlrqoYQ
-
-#EXTINF:-1,TRANSPORTER 1
-http://hcb.tv-vip.com/s/transcoder/Transporter-1.mp4/default/Transporter-1.mp4?t=1471294178&m=2jRLTdatnrESg2GAazdujQ&b=EBAYKx3ctc-UeL-0LWZgqg
-#EXTINF:-1,TRANSPORTER 2
-http://hcb.tv-vip.com/s/transcoder/Transporter-2.mp4/default/Transporter-2.mp4?t=1471294181&m=FW_xuWzX2iKpWebp0uFHsA&b=ILFKo2uL1GIb2YCkdQTBUg
-#EXTINF:-1,TRANSPORTER 3
-http://hcb.tv-vip.com/s/transcoder/Transporter-3.mp4/default/Transporter-3.mp4?t=1471294183&m=d4NysWMj9cDt0GW9fd8D5g&b=J223jyaMXOL0loV-iEB8WA
-#EXTINF:-1,TRANSPORTER LEGACY
-http://hcb.tv-vip.com/s/transcoder/Transporter_Legacy_1.mp4/default/Transporter_Legacy_1.mp4?t=1471294184&m=0PbJE73gTBqLdeEGz1KrSA&b=LNB4tdi_Tuf0CVAsSqrQGA
+src="http://hn.tv-vip.com/s/transcoder/Riddick2BDR1080.www.newpct.com.mp4/default/Riddick2BDR1080.www.newpct.com.mp4?t=1471380035&m=y7yFIGBG13Ql6FXYzMJ-TQ&b=jnwg5kM9zbDCKEDDrJyFSw"
