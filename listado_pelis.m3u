@@ -5,3 +5,6 @@ https://raw.githubusercontent.com/jfmomega/pelis_jfmomega/master/temporal.m3u
 
 #EXTINF: 0 type = "playlist" tvg-logo="http://tv-vip.com/json/playlist/aventuras/thumbnail_300x300.jpg", Aventuras
 https://raw.githubusercontent.com/jfmomega/pelis_jfmomega/master/AVENTURAS.m3u
+
+#EXTINF: 0 type = "playlist" tvg-logo="http://tv-vip.com/json/playlist/catastrofes/thumbnail_300x300.jpg", Catastrofes
+https://raw.githubusercontent.com/jfmomega/pelis_jfmomega/master/CATASTROFE.m3u
