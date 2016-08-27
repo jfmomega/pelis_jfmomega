@@ -3,11 +3,11 @@
 #EXTINF: 0 type = "playlist" tvg-logo="http://esp.habitants.org/var/ezwebin_site/storage/images/campagna_sfratti_zero/giornate_mondiali_sfratti_zero_-_per_il_diritto_ad_abitare_2013/work_in_progress/2390822-1-ita-IT/work_in_progress_imagelarge.jpg",Temporal
 https://raw.githubusercontent.com/jfmomega/pelis_jfmomega/master/temporal.m3u
 
-#EXTINF: 0 type = "playlist" tvg-logo="http://f0.pepst.com/c/903FDE/238174/ssc3/home/065/salim.wallpaper.2/albums/veer_salman_khan.jpg_480_480_0_64000_0_1_0.jpg", Aventuras
+#EXTINF: 0 type = "playlist" tvg-logo="http://wfiles.brothersoft.com/n/narnia_3_34479-1600x1200.jpg", Aventuras
 https://raw.githubusercontent.com/jfmomega/pelis_jfmomega/master/AVENTURAS.m3u
 
-#EXTINF: 0 type = "playlist" tvg-logo="http://tv-vip.com/json/playlist/catastrofes/thumbnail_300x300.jpg", Catastrofes
+#EXTINF: 0 type = "playlist" tvg-logo="http://rview.reviewcentre.com/wp-content/uploads/2011/09/Day-After-Tommorrow.jpg", Catastrofes
 https://raw.githubusercontent.com/jfmomega/pelis_jfmomega/master/CATASTROFE.m3u
 
-#EXTINF: 0 type = "playlist" tvg-logo="http://tv-vip.com/json/playlist/historico/thumbnail_300x300.jpg", Historicos
+#EXTINF: 0 type = "playlist" tvg-logo="http://f0.pepst.com/c/903FDE/238174/ssc3/home/065/salim.wallpaper.2/albums/veer_salman_khan.jpg_480_480_0_64000_0_1_0.jpg", Historicos
 https://raw.githubusercontent.com/jfmomega/pelis_jfmomega/master/HISTORICOS.m3u
