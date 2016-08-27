@@ -8,3 +8,6 @@ https://raw.githubusercontent.com/jfmomega/pelis_jfmomega/master/AVENTURAS.m3u
 
 #EXTINF: 0 type = "playlist" tvg-logo="http://tv-vip.com/json/playlist/catastrofes/thumbnail_300x300.jpg", Catastrofes
 https://raw.githubusercontent.com/jfmomega/pelis_jfmomega/master/CATASTROFE.m3u
+
+#EXTINF: 0 type = "playlist" tvg-logo="http://tv-vip.com/json/playlist/historico/thumbnail_300x300.jpg", Historicos
+https://raw.githubusercontent.com/jfmomega/pelis_jfmomega/master/HISTORICOS.m3u
