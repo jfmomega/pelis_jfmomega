@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF: 0 type = "playlist",Temporal
+#EXTINF: 0 type = "playlist" tvg-logo="http://esp.habitants.org/var/ezwebin_site/storage/images/campagna_sfratti_zero/giornate_mondiali_sfratti_zero_-_per_il_diritto_ad_abitare_2013/work_in_progress/2390822-1-ita-IT/work_in_progress_imagelarge.jpg",Temporal
 https://raw.githubusercontent.com/jfmomega/pelis_jfmomega/master/temporal.m3u
 
 #EXTINF: 0 type = "playlist" tvg-logo="http://tv-vip.com/json/playlist/aventuras/thumbnail_300x300.jpg", Aventuras
